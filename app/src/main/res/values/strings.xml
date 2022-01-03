@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SNCT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_galeria">Galeria</string>
+    <string name="ative_o_talk_back_para_ter_a_funcionalidade_de_deficientes_visuais">ATIVE O TALK BACK PARA TER A FUNCIONALIDADE de deficientes visuais</string>
+    <string name="button">Button</string>
+    <string name="title_activity_act_compartilhar">ActCompartilhar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

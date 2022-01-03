@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ac4e1364ccdc75288727725a5ab920f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d2767c020dfb32e82d96dcb0c79daa19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94794f0a5f3df7126adf6b30c20937bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0dd68f914b442fe6e3cdfcae8c0fc1d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\060c80f3dd3beb295b12426bd1c7ea32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\53dd765d8c6dc9fc7cb7be94ad711343\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6334f909f3dad777468ff2e3f373c6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acb4fdd32875c6c8bfef2045a38e007a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8694703c827b57bc18bbd5fc16fca148\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\399504dcdba9f8113cfb950a13523623\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d1fb2497d8f99816af0befe626f90e1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4451c63b6c49fc698bfe9b45aafaa266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\68e24eb87c12cb29da6d8224c795556e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\143c770501bc17d5e48a44b1eb12a111\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a20f622203451c8562fff954d3862721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\190518d0405b7d20c094efbacd12e94f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ccfe7df66ee85772238f4269f11d1dcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f2f9743441b8da5f4483a847dba1226\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c294f6b726d46fb93d11a56930ef06c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\784fa880a661976d87dbee869e668a39\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d17b57f61521bf7373220734e584f333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bb1e58786ab31776ccb8c7056bdbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce6906f34ba2776ffd2f57ddc6f111e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656c0fda3b2848e8651ff8756942c5d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8249bfc8e46750f49d19fd56ab6cca85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4fcad71d1bc04b0d8a129b07f4bc215d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b21880728e7b2a4c852a5685946e4c80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfd6fd8a3652ba28cfd8377c93fa530f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e346a8ec74b267770c7d0a5a1c10c5d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\03d81567d1f765b5f83d9e56b1421e12\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ac4e1364ccdc75288727725a5ab920f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ac4e1364ccdc75288727725a5ab920f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94794f0a5f3df7126adf6b30c20937bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94794f0a5f3df7126adf6b30c20937bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\784fa880a661976d87dbee869e668a39\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\784fa880a661976d87dbee869e668a39\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.leon.snct.MainActivity
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.leon.snct.ActGaleria
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:28:13-63
+	android:theme
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:27:13-39
+activity#com.example.leon.snct.ActCompartilhar
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:30:9-32:71
+	android:label
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:31:13-44
+activity#com.example.leon.snct.ActTalkBack
+ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml:33:19-46
+uses-sdk
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ac4e1364ccdc75288727725a5ab920f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ac4e1364ccdc75288727725a5ab920f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d2767c020dfb32e82d96dcb0c79daa19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d2767c020dfb32e82d96dcb0c79daa19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94794f0a5f3df7126adf6b30c20937bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94794f0a5f3df7126adf6b30c20937bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0dd68f914b442fe6e3cdfcae8c0fc1d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0dd68f914b442fe6e3cdfcae8c0fc1d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\060c80f3dd3beb295b12426bd1c7ea32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\060c80f3dd3beb295b12426bd1c7ea32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\53dd765d8c6dc9fc7cb7be94ad711343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\53dd765d8c6dc9fc7cb7be94ad711343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6334f909f3dad777468ff2e3f373c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6334f909f3dad777468ff2e3f373c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acb4fdd32875c6c8bfef2045a38e007a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\acb4fdd32875c6c8bfef2045a38e007a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8694703c827b57bc18bbd5fc16fca148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8694703c827b57bc18bbd5fc16fca148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\399504dcdba9f8113cfb950a13523623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\399504dcdba9f8113cfb950a13523623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d1fb2497d8f99816af0befe626f90e1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d1fb2497d8f99816af0befe626f90e1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4451c63b6c49fc698bfe9b45aafaa266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4451c63b6c49fc698bfe9b45aafaa266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\68e24eb87c12cb29da6d8224c795556e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\68e24eb87c12cb29da6d8224c795556e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\143c770501bc17d5e48a44b1eb12a111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\143c770501bc17d5e48a44b1eb12a111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a20f622203451c8562fff954d3862721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a20f622203451c8562fff954d3862721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\190518d0405b7d20c094efbacd12e94f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\190518d0405b7d20c094efbacd12e94f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ccfe7df66ee85772238f4269f11d1dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ccfe7df66ee85772238f4269f11d1dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f2f9743441b8da5f4483a847dba1226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3f2f9743441b8da5f4483a847dba1226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c294f6b726d46fb93d11a56930ef06c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c294f6b726d46fb93d11a56930ef06c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f1a34153d8c41d77a8996b6255930bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\784fa880a661976d87dbee869e668a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\784fa880a661976d87dbee869e668a39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d17b57f61521bf7373220734e584f333\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d17b57f61521bf7373220734e584f333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bb1e58786ab31776ccb8c7056bdbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bb1e58786ab31776ccb8c7056bdbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce6906f34ba2776ffd2f57ddc6f111e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce6906f34ba2776ffd2f57ddc6f111e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656c0fda3b2848e8651ff8756942c5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\656c0fda3b2848e8651ff8756942c5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8249bfc8e46750f49d19fd56ab6cca85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8249bfc8e46750f49d19fd56ab6cca85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4fcad71d1bc04b0d8a129b07f4bc215d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4fcad71d1bc04b0d8a129b07f4bc215d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b21880728e7b2a4c852a5685946e4c80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b21880728e7b2a4c852a5685946e4c80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfd6fd8a3652ba28cfd8377c93fa530f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfd6fd8a3652ba28cfd8377c93fa530f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e346a8ec74b267770c7d0a5a1c10c5d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e346a8ec74b267770c7d0a5a1c10c5d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\03d81567d1f765b5f83d9e56b1421e12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Geane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\03d81567d1f765b5f83d9e56b1421e12\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geane\AndroidStudioProjects\SNCT\app\src\main\AndroidManifest.xml

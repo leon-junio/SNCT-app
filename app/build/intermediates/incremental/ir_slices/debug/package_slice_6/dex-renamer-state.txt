@@ -1,0 +1,4 @@
+#Wed Oct 31 23:00:02 BRST 2018
+base.0=C\:\\Users\\Geane\\AndroidStudioProjects\\SNCT\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\41
+path.0=classes.dex
+renamed.0=classes.dex
